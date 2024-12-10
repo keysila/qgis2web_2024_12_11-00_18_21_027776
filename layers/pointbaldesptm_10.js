@@ -1,0 +1,1 @@
+var json_pointbaldesptm_10 = {"type":"FeatureCollection","name":"pointbaldesptm_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Kantor Bala Desa Patimuan"},"geometry":{"type":"Point","coordinates":[108.760388465938263,-7.585067597225862]}}]}

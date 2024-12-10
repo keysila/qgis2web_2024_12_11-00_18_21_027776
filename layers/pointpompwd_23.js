@@ -1,0 +1,1 @@
+var json_pointpompwd_23 = {"type":"FeatureCollection","name":"pointpompwd_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"SPBU Pertamina Patimuan"},"geometry":{"type":"Point","coordinates":[108.753724141851578,-7.598656223334656]}}]}
